@@ -12,7 +12,6 @@ rgb = 5
 rgbs = 5
 text = """请按↑↓键浏览
 飞机大战1.1
-作者:吴尚卿
 你是B国的空军将领，强大的A国想要
 攻打弱小的B国，你需要驾驶唯一一
 艘战斗机与A国的轰炸机对抗，你不
@@ -40,7 +39,7 @@ while keepgoing and keep_going:
                 else:
                     ys = 0
             if event.key == pygame.K_DOWN:
-                if y >= -323:
+                if y >= -283:
                     ys = -3
                 else:
                     ys = 0
@@ -50,7 +49,7 @@ while keepgoing and keep_going:
             ys = 0
     if y >= -3 and ys == 3:
         ys = 0
-    if y <= -323 and ys == -3:
+    if y <= -283 and ys == -3:
         ys = 0
     y += ys
     if rgb >= 250:
