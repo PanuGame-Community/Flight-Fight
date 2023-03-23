@@ -30,4 +30,6 @@ Python3.10.10
 
 Pygame2.1.2
 
+Windows,MacOS,Linux,BSD...(2.4及以前只要求有桌面,2.4以后还要求有新宋体)
+
 ### 这是PanuGame社区的第一款小游戏~您的支持是我们的动力
