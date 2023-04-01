@@ -1,4 +1,4 @@
-# <center>飞机大战 最新版本号：2.7</center>
+# <center>飞机大战 最新版本号：2.8</center>
 
 ## <center>故事背景</center>
 
